@@ -1,1 +1,0 @@
-versao estavel com user auth
